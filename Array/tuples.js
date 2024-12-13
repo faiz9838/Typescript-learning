@@ -10,7 +10,7 @@
 // console.log(graph)
 
 
-//Destructring Tuples
-var graph = [20, 10];
-var x = graph[0], y = graph[1];
-console.log(x, y);
+// //Destructring Tuples
+// var graph = [20, 10];
+// var x = graph[0], y = graph[1];
+// console.log(x, y);
